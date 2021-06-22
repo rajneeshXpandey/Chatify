@@ -3,8 +3,6 @@ import 'package:flutter/material.dart';
 import 'dart:ui';
 import 'dart:async';
 
-
-
 class SplashScreen extends StatefulWidget {
   static const id = 'splash_screen';
   @override
